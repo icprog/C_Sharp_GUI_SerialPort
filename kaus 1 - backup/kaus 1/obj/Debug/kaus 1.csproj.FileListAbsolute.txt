@@ -1,0 +1,51 @@
+c:\users\samsung\documents\visual studio 2012\Projects\kaus 1\kaus 1\bin\Debug\kaus 1.exe.config
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Debug\kaus 1.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Debug\kaus 1.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Debug\ZedGraph.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Debug\kaus_1.Form1.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Debug\kaus 1.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Debug\kaus 1.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Debug\kaus 1.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Debug\kaus 1.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Debug\GUI_PID.Properties.Resources.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Debug\JoystickInterface.xml
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe.config
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.exe
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.pdb
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.pdb
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\bin\Debug\JoystickInterface.xml
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.csprojResolveAssemblyReference.cache
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\obj\Debug\kaus_1.Form1.resources
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\obj\Debug\GUI_PID.Properties.Resources.resources
+C:\Users\Arnab\Desktop\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.csproj.GenerateResource.Cache
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe.config
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.exe
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.pdb
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.pdb
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\bin\Debug\JoystickInterface.xml
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.csprojResolveAssemblyReference.cache
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus_1.Form1.resources
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\GUI_PID.Properties.Resources.resources
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.csproj.GenerateResource.Cache
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe.manifest
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.application
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.exe.manifest
+C:\Users\Kaustubh Mundhada\Desktop\kaus 1 - backup (1)\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.application
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe.config
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.exe
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.pdb
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus_1.Form1.resources
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\GUI_PID.Properties.Resources.resources
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe.manifest
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.application
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.exe
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\kaus 1.pdb
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\ZedGraph.dll
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\bin\Debug\JoystickInterface.xml
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.exe.manifest
+C:\Users\user\Downloads\kaus 1 - backup\kaus 1\obj\Debug\kaus 1.application

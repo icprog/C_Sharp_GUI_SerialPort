@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\kaus 1.exe.config
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\kaus 1.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\kaus 1.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\ZedGraph.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Release\kaus_1.Form1.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Release\kaus 1.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Release\kaus 1.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Release\kaus 1.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Release\GUI_PID.Properties.Resources.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\obj\Release\kaus 1.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\JoystickInterface.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\microsoft.directx.directinput.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\Microsoft.DirectX.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2012\Projects\kaus 1\kaus 1\bin\Release\JoystickInterface.xml
